@@ -28,11 +28,6 @@ There are 3 files in the results folder:
 - hotels.json : result of scraping Booking website (www.booking.com)
 - hotels_information.csv : pandas dataframe transformed in csv after cleaning 
 
-## Details for certification purpose
-
-* email adress: morgane.berrod@gmail.com
-* video link: https://share.vidyard.com/watch/YLR9SyxfEagJd6Cud1VYTd?
-
 ## Authors
 
 **Morgane BERROD** - [MorganeBD](https://github.com/morganeberrod)
